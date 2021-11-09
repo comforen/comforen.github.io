@@ -16,3 +16,4 @@ Available at [GitHub](https://github.com/comforen/challenge2021)
 * [Price Manager](price.html)
 
 
+For questions and queries write to [challenge@comforen.org](mailto:challenge@comforen.org).
