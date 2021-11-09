@@ -1,14 +1,14 @@
 # Welcome to ComForEn Challange 2021 documentation and support site
 
-## Challenge details
+## Challenge's details are
 
 Available at conference [website](http://www.comforen.org/)
 
-## Virtual environment
+## Virtual environment is
 
 Available at [GitHub](https://github.com/comforen/challenge2021)
 
-## Documentation and usage templates for provided components
+## Documentation and usage templates for provided components are available from
 
 * [Customer](customer.html)
 * [Battery](battery.html)
