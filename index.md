@@ -2,7 +2,7 @@
 
 ## Documentation for provided components
 
-* Customer
+* [Customer](customer.html)
 * Battery
 * PV
 * Price Manager
