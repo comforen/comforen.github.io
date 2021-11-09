@@ -3,8 +3,8 @@
 ## Documentation for provided components
 
 * [Customer](customer.html)
-* Battery
-* PV
-* Price Manager
+* [Battery](battery.html)
+* [PV](pv.html)
+* [Price Manager](price.html)
 
 
